@@ -1,6 +1,6 @@
-# Fontes e decisões da versão 1
+# Fontes e decisões
 
-Data de revisão: 9 de outubro de 2026. Gong e Instantly são o norte escolhido pelo usuário. Esta skill condensa a pesquisa do projeto em decisões reutilizáveis; não reproduz cursos ou bibliotecas de templates.
+Pesquisa-base: 9 de outubro de 2026. Revisão editorial: 12 de outubro de 2026, versão 1.1.0. Gong e Instantly são o norte escolhido pelo usuário. Esta skill condensa a pesquisa do projeto em decisões reutilizáveis; não reproduz cursos ou bibliotecas de templates.
 
 ## Fontes centrais reabertas para construir a skill
 
@@ -41,11 +41,16 @@ Sua taxa geral divide respostas por emails enviados; não mede reuniões realiza
 | Quatro emails totais | Escolha editorial dentro da faixa de I01 |
 | Cerca de três a quatro dias úteis, se precisarem de calendário | Proposta operacional local; I01 fala em dias, sem estabelecer esta conversão como superior |
 | Português natural, um argumento, pesquisa verdadeira | Adaptação editorial e critérios de fidelidade |
+| Consequência comercial e benefício antes da descrição da execução | Preferência explícita do usuário nos exemplos revisados em 12/10/2026, coerente com G01; sem comparação de desempenho em envios |
+| Dor sustentada ou hipótese condicionada; oportunidade específica quando não há dor | Decisão editorial reforçada pelos exemplos de 12/10/2026; não presumir perda comercial a partir de defeito técnico |
+| Simulação de dor inventada apenas quando solicitada e identificada fora do email | Uso didático pedido pelo usuário; não vira fato pesquisado nem autorização de envio |
 | Sem cases no estágio inicial; atendimento fora do escopo | Fatos fornecidos pelo usuário, sujeitos a atualização explícita |
 | Contabilidade estabelecida como público inicial | Direção comercial do usuário e pesquisa exploratória |
 | Métricas por conta, com reunião realizada e pertinente | Desenho de medição proposto para a meta desta agência |
 
 O material de contabilidade e seus limites estão em [contabilidade.md](contabilidade.md). A voz do mercado informa hipóteses; não autoriza atribuir uma dor a uma empresa. Estudos e relatos americanos não transferem automaticamente preços, sazonalidade ou resultado ao Brasil.
+
+Na revisão de 12/10, os textos preferidos desenvolveram o efeito para o destinatário: possibilidade de atrair um perfil específico ou reduzir esforço com pedidos fora de uma oferta. A versão anterior permitia pular do serviço do prospect para uma lista de anúncios, páginas e CRM. A mudança fortalece essa ligação e atualiza os exemplos; a preferência editorial observada não é benchmark entre modelos nem evidência de mais respostas ou reuniões. As fontes externas de 09/10 não foram revalidadas nesta revisão de escrita.
 
 ## Quando pesquisar de novo
 

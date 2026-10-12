@@ -11,10 +11,35 @@ Orientações adotadas de Gong e Instantly, com adaptações editoriais em [font
 - Linguagem direta: clientes, pedidos, projetos, serviços, contatos. Usar CRM/anúncios quando explicarem o valor; retirar jargões como “alavancar”, “revolucionar”, “solução 360” e termos técnicos dispensáveis. Não manter lista rígida de palavras proibidas.
 - Contexto relevante substitui elogios vazios. Não abrir com curiosidade pessoal sem relação com a proposta.
 - Formular uma hipótese com naturalidade. Um “se esse perfil for prioridade” pode bastar; não encher o corpo de ressalvas nem converter a hipótese em certeza.
+- Ser curto sem ficar raso: preservar a explicação do que está em jogo para o destinatário. Não trocar essa explicação por “mais clientes”, “crescimento” ou uma lista de entregas.
 
-A ponte precisa fazer sentido: o que a empresa oferece → quem poderia se interessar → como a agência pode trabalhar a divulgação → o próximo passo. Evitar “podemos ajudar a crescer” sem serviço, público ou frente comercial.
+A ligação precisa fazer sentido: fato específico → problema ou possibilidade comercial → melhoria que vale explorar → mecanismo suficiente → próximo passo. É um raciocínio editorial, não uma sequência obrigatória de frases.
 
 Usar identidade real na assinatura. Preservar identificação e descadastro já definidos pela operação; não inventar remetente, endereço, link ou promessa de remoção executada. Não acrescentar rodapé jurídico genérico a toda tarefa de redação.
+
+## Escolher entre dor e oportunidade
+
+**Dor comercial:** há uma dificuldade pertinente à oferta e uma consequência compreensível. Por exemplo, pedidos fora dos critérios de um plano consomem tempo em explicações e orçamentos que não avançam. Se o problema foi relatado ou documentado, usá-lo diretamente, sem ampliar frequência, custo ou impacto além da evidência. Uma declaração pública não permite escrever como se tivesse havido conversa anterior.
+
+**Hipótese de dor:** o fato conhecido permite formular uma dificuldade plausível, mas ela não foi constatada. Planos com critérios explícitos podem justificar “se chegam muitos pedidos fora dessas condições...”; não provam que isso acontece. Condicionar também a consequência, sem transformar a frase seguinte em diagnóstico certo. Evitar somar suposições sobre indicações, equipe, CRM e receita para construir uma dor.
+
+**Oportunidade:** há um público, serviço ou situação de compra que permite uma proposta específica. Uma especialização em supermercados pode ser relevante para empresários avaliando trocar de contador. O argumento é explorar conversas com esse perfil; o interesse do escritório em ampliar a carteira continua desconhecido. Apresentar a situação de compra como caminho proposto, não como demanda de mercado medida. Não inventar dor quando essa oportunidade já sustenta a mensagem.
+
+Priorizar a evidência mais útil à conversa, e não a falha mais fácil de apontar. Link quebrado, e-book indisponível, rede desatualizada ou ausência de formulário podem ter outras explicações, incluindo retirada deliberada do material. Sozinhos, não comprovam perda de clientes, falta de captação ou necessidade da agência. Quando só houver esse tipo de sinal, buscar contexto comercial disponível; se faltar, reconhecer o limite em vez de forçar uma venda de campanhas a partir do defeito. Uma hipótese não fica pertinente apenas por começar com “se”.
+
+Uma condição comercial anunciada também não define toda a operação: empresa fora dos limites de um plano pode ser atendida por orçamento. Não confundir “fora deste plano” com “cliente que o escritório não pode atender”.
+
+Em demonstração fictícia pedida pelo usuário, identificar antes do email qual dor foi criada e quais fatos vieram do briefing. A copy pode demonstrar esse cenário, mas a dor inventada não deve ser salva como pesquisa nem reutilizada como fato em uma abordagem real.
+
+## Benefício primeiro, execução na medida necessária
+
+No primeiro contato, explicar por que o tema merece atenção: abrir conversas com um perfil desejado, concentrar a procura em empresas compatíveis com uma oferta ou reduzir esforço com pedidos fora dela. O benefício é uma proposta de melhoria, não garantia de conversão, margem ou faturamento.
+
+Só então escolher o mecanismo que torna a proposta compreensível. Anúncio, página, formulário ou CRM pode caber em uma frase; não precisam aparecer todos. Evitar a passagem automática “vocês oferecem X, então faremos anúncios, landing page e CRM”, que descreve o produto sem justificar a conversa. Também evitar prometer “mais vendas” sem explicar a relação com o fato pesquisado.
+
+Nome de sócio, telefone comercial, tempo de mercado e portal de clientes ajudam a identificar e contextualizar. Seu uso na abertura só agrega quando altera a proposta. Um recorte de público, condição da oferta ou dificuldade declarada costuma dar mais conteúdo ao argumento.
+
+Manter o escopo da agência: segmentação de campanhas e campos de qualificação na entrada do funil podem ajudar a identificar o perfil. Diagnosticar, treinar ou executar atendimento, negociação e fechamento continua fora da oferta. Filtrar por critérios combinados não garante que todos os contatos tenham perfil ou intenção de compra.
 
 ## Escolher o pedido pelo estágio
 
@@ -66,6 +91,8 @@ Condições:
 ## Revisão de copy
 
 Retirar explicações que só interessam à agência. A reunião precisa ter um tema útil, como avaliar uma frente de divulgação para um serviço já oferecido; não “apresentar nossa empresa” como única razão.
+
+Reler a mensagem procurando a ligação comercial: qual informação muda a proposta, qual melhoria está sendo explorada e por que o mecanismo se aplica. Se a mensagem só oferece ferramentas ou servir praticamente igual para qualquer empresa trocando o nome, desenvolver a relevância antes de entregar. Não compensar com elogios ou detalhes pessoais sem função.
 
 Conservar fatos e nuances quando a versão um pouco maior for mais clara. Não usar pontuação de qualidade como previsão de respostas. Em revisão, entregar a correção concreta e justificar somente mudanças relevantes.
 

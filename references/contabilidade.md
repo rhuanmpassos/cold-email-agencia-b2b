@@ -10,9 +10,10 @@ O perfil inicial da agência são escritórios estabelecidos que querem ampliar 
 | --- | --- | --- |
 | Ampliar captação | Meta de crescimento ou desejo de outro canal declarado; sem isso, oportunidade condicional | Ter indicações significa depender delas de forma problemática |
 | Encontrar mais empresas de um perfil | Público efetivamente atendido e, quando conhecido, preferência do escritório | Empresa maior ou honorário maior significa melhor margem |
+| Reduzir pedidos fora da oferta divulgada | Relato de pedidos incompatíveis e critérios da oferta; com apenas critérios publicados, hipótese condicional | Condições dos planos provam contatos ruins, desperdício atual ou impossibilidade de atender por orçamento |
 | Divulgar um serviço | Serviço realmente prestado; prioridade de expansão declarada ou tratada como hipótese | Listagem no site prova demanda por contratar agência |
 
-A terceira hipótese tem apoio mais fraco como prioridade de compra na pesquisa atual. Não tratar os três ângulos como dores igualmente demonstradas.
+A hipótese de divulgar um serviço tem apoio mais fraco como prioridade de compra na pesquisa atual. Não tratar esses ângulos como dores igualmente demonstradas.
 
 ## Evidências úteis e limites
 
@@ -36,6 +37,8 @@ Se o dono relata carteira cheia sem intenção de mudar, a proposta de mais volu
 ## Tradução para a escrita
 
 Uma competência real e um público definido dão um tema à conversa. Por exemplo, um escritório que declara atender clínicas permite explorar divulgação para esse público; isso não autoriza dizer que possui dificuldade de captação ou se apresentar como especialista em marketing contábil.
+
+Na oportunidade, explicar como essa competência pode importar na escolha do contador e qual perfil de empresa faria sentido atrair. Na dor, conectar o problema sustentado ao seu efeito na aquisição: por exemplo, pedidos fora de um plano exigindo repetidas explicações. A execução entra para explicar a melhoria proposta, sem tomar o lugar do argumento. Especialização publicada não prova intenção de expansão; tabela de preços não prova competição exclusivamente por preço nem margem disponível para anúncios.
 
 Perguntas para a pesquisa de oferta, quando solicitada: o que deseja mudar na carteira, como chegaram os últimos clientes, qual perfil gostaria de repetir, qual serviço quer expandir, o que já tentou, se consegue absorver procura e o que tornaria uma conversa útil. Não transformar tudo em perguntas no cold email.
 
