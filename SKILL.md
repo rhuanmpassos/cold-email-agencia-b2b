@@ -2,12 +2,12 @@
 name: cold-email-agencia-b2b
 description: Escrever e revisar cold emails, sequências e respostas de prospecção da agência de anúncios, funil e CRM para conseguir reuniões B2B. Usar para email frio, adaptação de abordagem por empresa ou nicho e testes de mensagem; contabilidade é o primeiro segmento, com adaptação para móveis planejados, marmorarias e outros. Não é uma skill de newsletter nem de atendimento aos leads dos clientes.
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Cold email da agência B2B
 
-Produzir mensagens em português brasileiro que deem a uma empresa compatível uma razão concreta para conversar. Usar Gong e Instantly como norte de escrita e melhoria contínua. A meta é uma reunião pertinente; o primeiro pedido pode ser interesse na abordagem.
+Produzir mensagens em português brasileiro que deem a uma empresa compatível uma razão concreta para conversar. O centro do argumento é uma consequência comercial relevante para o destinatário; anúncios, páginas e CRM explicam como trabalhar essa consequência quando necessário. Usar Gong e Instantly como norte de escrita e melhoria contínua. A meta é uma reunião pertinente; o primeiro pedido pode ser interesse na abordagem.
 
 ## Ler conforme a tarefa
 
@@ -48,11 +48,11 @@ Manter um registro breve fora do email: fato utilizável, fonte ou briefing, dat
 
 Não achar anúncios não prova que a empresa não anuncia. CRM não visível não prova ausência. Sede não define área atendida. Serviço no catálogo não prova prioridade de expansão. Empregar “vi”, “pesquisei” ou “analisei” somente quando essa ação ocorreu.
 
-Escolher uma única frente: ampliar captação, atrair um perfil definido ou divulgar um serviço existente. A dor não é obrigatória; uma oportunidade específica pode sustentar o contato. Para outro nicho, verificar serviço/projeto, compradores finais, região, função decisora e contexto. A agência vende B2B; seu cliente pode vender B2C.
+Escolher uma única frente comercial e aplicar a decisão entre dor e oportunidade de [escrita-e-sequencias.md](references/escrita-e-sequencias.md). Usar dor quando o contexto sustentar o problema e sua consequência; usar oportunidade quando houver serviço, público ou situação de compra específicos, sem dificuldade confirmada. Não forçar dor para tornar a mensagem mais persuasiva. Para outro nicho, verificar serviço/projeto, compradores finais, região, função decisora e contexto. A agência vende B2B; seu cliente pode vender B2C.
 
 ## 3. Escrever para a etapa real
 
-Aplicar os padrões de [escrita-e-sequencias.md](references/escrita-e-sequencias.md): contexto verdadeiro, valor possível, mecanismo suficiente e um pedido proporcional. Esses elementos não precisam virar frases separadas nem um template fixo.
+Aplicar os padrões de [escrita-e-sequencias.md](references/escrita-e-sequencias.md): contexto verdadeiro, consequência comercial ou benefício possível, mecanismo suficiente e um pedido proporcional. Desenvolver a ligação entre o fato e o benefício antes de listar execução. Esses elementos não precisam virar frases separadas nem um template fixo; concisão não deve apagar essa ligação.
 
 Explicar o que vale examinar na conversa para o destinatário. Não despejar a lista de canais, CRM e implantação, perguntar orçamento por rotina ou tentar vender o projeto inteiro.
 
@@ -60,17 +60,21 @@ Na oferta padrão desta agência, preservar o escopo: anúncios, funil de aquisi
 
 A ausência atual de cases não impede escrever. Usar método e contexto reais; nunca inventar experiência, especialização, cliente, resultado, relação, diagnóstico, auditoria gratuita ou material preparado. Se pedirem uma afirmação sem sustentação, substituir por uma alternativa honesta e explicar a mudança brevemente.
 
+Quando o usuário pedir explicitamente uma demonstração inventada, pode criar uma situação comercial plausível e identificá-la como hipotética fora do email. Separar os fatos fornecidos da parte inventada. A simulação não se torna constatação sobre o lead nem versão pronta para envio real; para esse uso, confirmar a dor ou formular a hipótese no próprio texto.
+
 ## 4. Revisar antes de entregar
 
 Verificar decisões, não uma nota artificial:
 
 - Cada fato sobre destinatário/remetente tem suporte no briefing ou na pesquisa?
 - O texto torna claro por que esse serviço/público justifica o contato, além de “toda empresa quer crescer”?
+- Sem os nomes das ferramentas, ainda fica claro o que o destinatário poderia ganhar ou deixar de desperdiçar? O mecanismo explica essa melhoria, em vez de substituí-la?
+- A dor e sua consequência têm suporte ou estão adequadamente condicionadas? Um detalhe técnico isolado virou diagnóstico comercial sem evidência?
 - Benefício possível foi preservado sem garantia ou diagnóstico?
 - O pedido corresponde ao estágio e é único? “Interesse em conversar” continua sendo convite à conversa.
 - A sequência respeita respostas, recusas, pausas e encerramento?
 - Escopo, prova, destinatário, território e público final estão corretos?
-- Há frase genérica, elogio sem função, jargão, repetição ou personalização ornamental que pode sair?
+- Há frase genérica, elogio sem função, jargão, repetição ou personalização ornamental que pode sair? A informação pesquisada muda o argumento ou apenas enfeita a abertura?
 
 Corrigir a mensagem antes de apresentá-la. Quando um fato não pode ser verificado, removê-lo costuma ser suficiente; não bloquear todo o trabalho.
 

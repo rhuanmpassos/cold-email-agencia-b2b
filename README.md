@@ -2,7 +2,9 @@
 
 Skill em português brasileiro para pesquisar prospects e escrever, revisar e adaptar emails frios de uma agência de anúncios, funil e CRM, com o objetivo de conseguir reuniões pertinentes.
 
-Versão inicial: **1.0.0**, revisada em **9 de outubro de 2026**.
+Versão: **1.1.0**, revisada em **12 de outubro de 2026**.
+
+Escolhe entre dor comercial sustentada e oportunidade específica. Desenvolve o benefício para o destinatário antes de explicar anúncios, páginas ou CRM, sem transformar hipóteses em fatos. Demonstrações inventadas são identificadas quando solicitadas.
 
 ## Uso
 
@@ -35,6 +37,6 @@ A skill produz pesquisa e redação. Envio, inclusão em cadências, alteraçõe
 
 ## Referências e validação
 
-Gong e Instantly orientam os padrões de escrita e melhoria contínua. As fontes e seus limites estão documentados nas referências. A estrutura foi validada e a aplicação revisada manualmente em 14 cenários pelo mesmo assistente autor; isso não é avaliação independente nem comprovação de resultado comercial.
+Gong e Instantly orientam os padrões de escrita e melhoria contínua. As fontes e seus limites estão documentados nas referências. A estrutura foi validada e a aplicação revisada manualmente pelo assistente autor em cenários de dor, oportunidade, evidência insuficiente e demonstração hipotética. Isso não comprova resultado comercial nem garante comportamento uniforme entre modelos.
 
 A oferta registrada é um retrato inicial, sem cases, e aceita atualizações explícitas. Os exemplos fictícios não representam clientes ou resultados da agência.
