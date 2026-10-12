@@ -1,4 +1,4 @@
 interface:
   display_name: "Cold Email da Agência B2B"
-  short_description: "Emails e sequências para reuniões B2B"
-  default_prompt: "Use $cold-email-agencia-b2b para escrever um cold email da nossa agência para esta empresa, usando apenas fatos confirmados."
+  short_description: "Cold emails por dor ou oportunidade comercial"
+  default_prompt: "Use $cold-email-agencia-b2b para escrever um cold email da nossa agência com foco no benefício para esta empresa, escolhendo dor ou oportunidade conforme as evidências."
